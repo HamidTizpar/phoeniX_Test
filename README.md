@@ -28,5 +28,5 @@ question2:
 
 result_2:
 a0=4
-
 - Attach the waveform image to the README.md file
+![Result](Result2.jpg)

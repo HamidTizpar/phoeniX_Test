@@ -1,7 +1,7 @@
    
    # .data
 #our_values:
-    #.word 3,5,1,2,4,17
+    #.word 3,5,1,2,4,16
 
 
 li s2, 0

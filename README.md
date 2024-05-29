@@ -32,8 +32,7 @@ a0=5
 - Attach the waveform image to the README.md file
 
 
-## Result1
-![Result1](Result1.jpg)
+
 
 
 
